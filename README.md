@@ -6,6 +6,7 @@
 	more percisely number sense.
 	* The assignment originally only asked for a presentation, however, 
 	I elected to make a program that chooses random math questions and gives answers when required.
+	* The program was made using Gamemaker 8
 	
 ## Useage
 	1. Press F1 to view instructions.
