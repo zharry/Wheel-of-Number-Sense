@@ -1,4 +1,4 @@
-# Wheel-of-Number-Sense
+# Wheel of Number Sense
 
 ## Information
 * This task was marked as a grade 7 math summative.
