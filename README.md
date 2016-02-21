@@ -1,6 +1,7 @@
 # Wheel-of-Number-Sense
 
 ## Information
+	* This task was marked as a grade 7 math summative.
 	* The goal of this project was to have a better understanding of the basic principles of math, 
 	more percisely number sense.
 	* The assignment originally only asked for a presentation, however, 
